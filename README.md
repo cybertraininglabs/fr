@@ -1,2 +1,2 @@
 # fr
-Travaux version Francçaise
+Travaux version Française
